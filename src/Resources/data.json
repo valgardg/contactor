@@ -1,0 +1,29 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Garðar Ingi",
+            "phoneNumber": "7789718",
+            "image": "https://pbs.twimg.com/profile_images/949787136030539782/LnRrYf6e.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Petrína Bergmann",
+            "phoneNumber": "8889977",
+            "image": "https://pbs.twimg.com/profile_images/949787136030539782/LnRrYf6e.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Valgarð Guðni",
+            "phoneNumber": "6669898",
+            "image": "https://pbs.twimg.com/profile_images/949787136030539782/LnRrYf6e.jpg"
+        },
+        {
+
+            "id": 4,
+            "name": "Jóhanna Ósk",
+            "phoneNumber": "3334477",
+            "image": "https://pbs.twimg.com/profile_images/949787136030539782/LnRrYf6e.jpg"
+        }
+    ]
+}
